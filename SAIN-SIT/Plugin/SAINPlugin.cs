@@ -26,11 +26,11 @@ namespace SAIN
         public const string Description = "Full Revamp of Escape from Tarkov's AI System.";
         public const string Company = "";
         public const string Product = SAINName;
-        public const string Copyright = "Copyright � 2023 Solarint";
+        public const string Copyright = "Copyright © 2023 Solarint";
         public const string Trademark = "";
         public const string Culture = "";
 
-        public const int TarkovVersion = 29197;
+        public const int TarkovVersion = 29351;
 
         public const string EscapeFromTarkov = "EscapeFromTarkov.exe";
 
